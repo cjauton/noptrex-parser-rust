@@ -14,9 +14,9 @@ To use this program, follow the steps below:
 
 To run the program, use the following command:
 
-'''bash
+```bash
 cargo run <run_number>
-'''
+```
 
 
 Replace `<run_number>` with the desired run number for which you have data and configuration files. The program expects the data file to be located in the `./data` directory and the configuration file in the `./meta` directory. The filenames should follow the format `run<run_number>.bin` for the data file and `run<run_number>.conf` for the configuration file.
