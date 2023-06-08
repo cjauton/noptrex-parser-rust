@@ -1,4 +1,4 @@
-# Rust Program Readme
+# NOPTREX PARSER in RUST
 
 This repository contains a Rust program that performs data reading and processing based on configuration files. The program reads binary data from a file and extracts pulses with various waveform parameters.
 
